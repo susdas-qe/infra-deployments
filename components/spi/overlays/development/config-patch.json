@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/data/VAULTHOST",
-    "value": "https://vault-spi-vault.apps.appstudio-stage.x99m.p1.openshiftapps.com"
+    "value": "https://vault-spi-vault.apps.a2d67ae7177a07a33925.hypershift.aws-2.ci.openshift.org"
   },
   {
     "op": "replace",
     "path": "/data/BASEURL",
-    "value": "https://spi-oauth-spi-system.apps.appstudio-stage.x99m.p1.openshiftapps.com"
+    "value": "https://spi-oauth-spi-system.apps.a2d67ae7177a07a33925.hypershift.aws-2.ci.openshift.org"
   },
   {
     "op": "add",
